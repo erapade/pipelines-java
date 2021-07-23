@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/paradeen0239/testing%20Azure%20Pipelines/_apis/build/status/erapade.pipelines-java?branchName=master)](https://dev.azure.com/paradeen0239/testing%20Azure%20Pipelines/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
